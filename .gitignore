@@ -1,0 +1,23 @@
+# Environments
+env/
+venv/
+.env
+
+# Project specific
+motion_s_outputs/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Large Data (excluded from GitHub due to size)
+motion-s-hierarchical-text-to-motion-generation-for-sign-language/Motion-Features/
+motion-s-hierarchical-text-to-motion-generation-for-sign-language/Train/
+*.npy
+*.bvh
+*.zip
+*.7z
+*.tar.gz
+
+# VS Code
+.vscode/

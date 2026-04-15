@@ -1,0 +1,8 @@
+numpy
+pandas
+torch
+transformers
+tqdm
+scipy
+sentencepiece
+ipykernel
